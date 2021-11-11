@@ -54,6 +54,7 @@ df_Dem_17_18 = pd.read_sas(url_Dem_17_18, format = "xport")
 demo_cols = {
     'SEQN': 'id',
     'RIDAGEYR': 'age',
+    'RIAGENDR': 'gender',
     'RIDRETH3': 'race',
     'DMDEDUC2': 'education',
     'DMDMARTL': 'marital_status',
@@ -70,6 +71,7 @@ demo_int = ('id', 'age', 'psu', 'strata')
 
 # levels for categorical variables
 demo_cat = {
+    'gender': {1: 'Male', 2: 'Female'},
     'race': {1: 'Mexican American',
              2: 'Other Hispanic',
              3: 'Non-Hispanic White',
