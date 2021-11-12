@@ -41,6 +41,36 @@
 # c. Item 3 
 # ***
 #
+#
+# ## Raw markdown codes for producing the above:
+#
+# ***
+# ```
+# ***
+# This is *question 0* for [problem set 1](https://jbhender.github.io/Stats507/F21/ps1.html) of [Stats 507](https://jbhender.github.io/Stats507/F21/ps1.html).
+#
+# > Question 0 is about Markdown.
+#
+# The next question is about the **Fibonnaci sequence**, $F_n = F_{n−2} + F_{n−1}$. In part **a** we will define a Python function `fib_rec()`.
+#
+# Below is a …
+#
+# ### Level 3 Header
+#
+# Next, we can make a bulleted list:
+#
+# * Item 1
+#  * detail 1
+#  * detail 2
+# * Item 2
+#
+# Finally, we can make an enumerated list:
+#
+# a. Item 1  
+# b. Item 2  
+# c. Item 3 
+# ***
+# ```
 
 # Modules for the codes
 import math
