@@ -1,6 +1,6 @@
 # Stats507  
 
-This is a Repo for STATS 507 Fall 2021. It contains a file called ![STATS 507 HW 2.py](./STATS 507 HW 2.py) which reads and cleans several data files from the National Health and Nutrition Examination Survey ![NHANES](https://www.cdc.gov/nchs/nhanes/index.htm).  
+This is a Repo for STATS 507 Fall 2021. It contains a file called ![STATS 507 HW 2.py](./STATS_507_HW_2.py) which reads and cleans several data files from the National Health and Nutrition Examination Survey ![NHANES](https://www.cdc.gov/nchs/nhanes/index.htm).  
 Specifically, data from four (4) cohorts spanning the years 2011 through 2018 are imported and cleaned. The links to the various cohorts can be found ![here](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx).  
 
 The following analyses are implemented in the `STATS 507 HW 2.py`:
