@@ -13,29 +13,9 @@
 #     name: python3
 # ---
 
-# Title:
-## Name: Benjamin Osafo Agyare
-## UM email: bagyare@umich.edu
-
-
-
-# # Modules for tasks
-
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-import scipy.stats as spstat
-from statistics import stdev
-import os.path
-import warnings
-import re
-from IPython.display import HTML
-from ps1_fun import normal_mean_conf_int, binom_mean_conf_int
-from functools import reduce
-
-
-# # Question 0
+# **Name:** Benjamin Osafo Agyare  
+# **UM email:** bagyare@umich.edu  
+# **Topic:** Python Classes and Objects
 
 # # Python Classes and Objects
 
